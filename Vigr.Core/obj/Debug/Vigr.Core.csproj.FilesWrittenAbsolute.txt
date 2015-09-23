@@ -1,0 +1,8 @@
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Core/bin/Debug/Vigr.Core.dll.mdb
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Core/bin/Debug/Vigr.Core.dll
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Core/obj/Debug/Vigr.Core.dll
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Core/obj/Debug/Vigr.Core.dll.mdb
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Core/bin/Debug/Cirrious.CrossCore.dll
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Core/bin/Debug/Cirrious.MvvmCross.Localization.dll
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Core/bin/Debug/Cirrious.MvvmCross.dll
