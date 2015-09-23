@@ -92,6 +92,7 @@
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.xib" />
+    <InterfaceDefinition Include="Views\WelcomeView.xib" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
@@ -107,6 +108,10 @@
     <Compile Include="DebugTrace.cs" />
     <Compile Include="Views\FirstView.cs" />
     <Compile Include="LinkerPleaseInclude.cs" />
+    <Compile Include="Views\WelcomeView.cs" />
+    <Compile Include="Views\WelcomeView.designer.cs">
+      <DependentUpon>WelcomeView.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>

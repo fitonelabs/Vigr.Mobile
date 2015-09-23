@@ -16,3 +16,4 @@
 /Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Touch/bin/iPhoneSimulator/Debug/Cirrious.MvvmCross.dll
 /Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Touch/bin/iPhoneSimulator/Debug/Vigr.Core.dll
 /Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Touch/bin/iPhoneSimulator/Debug/Vigr.Core.dll.mdb
+/Users/subbiahkalidasan/Projects/Vigr/Vigr.Mobile/Vigr.Touch/obj/iPhoneSimulator/Debug/ibtool/WelcomeView.nib

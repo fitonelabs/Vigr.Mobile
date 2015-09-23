@@ -11,7 +11,7 @@ namespace Vigr.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 				
-            RegisterAppStart<ViewModels.FirstViewModel>();
+			RegisterAppStart<ViewModels.WelcomeViewModel>();
         }
     }
 }
